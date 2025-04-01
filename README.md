@@ -26,7 +26,7 @@ python project.py
 
 ## Video Demo
 
-📺 [Demo Video]
+📺 [Demo Video]https://www.youtube.com/watch?v=4ttzzku8xCg
 
 ## Design
 
