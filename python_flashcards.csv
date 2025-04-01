@@ -1,0 +1,11 @@
+question,answer
+What keyword is used to define a function in Python?,def
+How do you start a for loop in Python?,for item in iterable:
+What is the output of 3 * 'a' in Python?,aaa
+Which keyword is used to handle exceptions?,try
+What data type does input() return?,str
+How do you import the math module?,import math
+What is a lambda function?,An anonymous function expressed as a single line
+What does the len() function return?,The number of items in an object
+What is the difference between a list and a tuple?,"Lists are mutable, tuples are immutable"
+How do you create a dictionary in Python?,Using curly braces: {key: value}
