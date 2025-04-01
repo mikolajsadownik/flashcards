@@ -26,7 +26,7 @@ python project.py
 
 ## Video Demo
 
-📺 [Demo Video](https://youtu.be/your_demo_link_here)
+📺 [Demo Video]
 
 ## Design
 
@@ -36,6 +36,4 @@ This project includes:
 - Error handling for missing CSV file
 - CSV-based data separation for easy flashcard editing
 
-## Author
 
-Your Name
